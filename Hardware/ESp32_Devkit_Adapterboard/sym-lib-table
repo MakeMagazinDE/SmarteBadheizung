@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name my)(type Legacy)(uri D:/kipping/2-dev/05_PCBs/Kicad_libs/own_parts/my_parts.lib)(options "")(descr ""))
+  (lib (name mouser)(type Legacy)(uri D:/kipping/2-dev/05_PCBs/Kicad_libs/LibLoaderMouser/SamacSys_Parts.lib)(options "")(descr ""))
+)
