@@ -912,7 +912,7 @@ Wire Wire Line
 Wire Wire Line
 	2650 6500 3200 6500
 Text Notes 2950 1100 0    50   ~ 0
-v2: Dallas/TWI pullup\nc3: twi pullup wieder weg, die von IN0,1 nutzen\n\n
+v2: Dallas/TWI pullup\nc3: twi pullup wieder weg, die von IN0,1 nutzen\nv4: TODO: A0 an VCC per jp, FET_" nicht extern wg pullup, RxTX an TWI, bessere bechreibung D1-D8 auf rückseite\n\n
 Wire Wire Line
 	5400 6650 6200 6650
 Wire Wire Line
